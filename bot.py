@@ -6,16 +6,16 @@ from twilio.rest import TwilioRestClient
 
 # discord.py has logging available: see docs. you probs won't need.
 
-twilioNumber = "+10005555555"
-phoneNumber  = "+10005555555" # to send messages to (ie, your user)
+twilioNumber = "+16147022179"
+phoneNumber  = "+16147022179" # to send messages to (ie, your user)
 
 botName      = 'sms-bot' # IMPORTANT! must be real bot username
 #       otherwise you'll get infinite loops of the bot responding to itself
 
-twilioAccountSid = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-twilioAuthToken  = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+twilioAccountSid = "AC41ad5edf73f8e93ec34b557af4291919"
+twilioAuthToken  = "8bdfbe458a0ec9a9bbdb88d84173acd7"
 
-discordBotToken  = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+discordBotToken  = "NjcxNTQyMjYwNjUwODY4NzQz.XjDdbg.vMu7_EVv-PvD-jHJPixD0holCow"
 
 ###############################################################################
 # auth client objects
